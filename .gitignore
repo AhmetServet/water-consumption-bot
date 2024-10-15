@@ -1,0 +1,5 @@
+.env
+logs/bot.log
+__pycache__/
+db/__pycache__
+db/water-consumptions.db
